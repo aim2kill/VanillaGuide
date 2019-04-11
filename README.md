@@ -35,7 +35,8 @@ We are always looking for more volunteers to help with coding, customizations, e
 Thank you.
 
 
-<b><font size="+2"> fishing+cooking </b></font>
+**##FISHING & COOKING
+
 
 This guide is intended to give you simple step-by-step directions to get your level 40+ Alliance character from zero to 300 in both cooking and fishing at the same time. It is not the only way to skill-up these professions, but it is a very easy way that requires a minimum of travel and keeps you in relatively safe areas. I created this guide because the only fishing/cooking combination guides I could find were written for horde characters. I used bits of this guide as a starting point and filled it out with specifics for us good guys. All drop percentages and location details were borrowed from Thottbot and Allakhazam.
 
@@ -43,7 +44,7 @@ A note on fishing: Fishing levels up at the same rate no matter where you fish. 
 
  
 
-Apprentice fishing and cooking (1-75)
+## Apprentice fishing and cooking (1-75)
 
 Get apprentice Cooking from Gremlock Pilsnor in Kharanos, 
 Daryl Riknussun in Ironforge, or Stephen Ryback in Old Town, Stormwind.
@@ -57,7 +58,7 @@ find a cooking fire (or make one yourself) and cook up your fish.
 Repeat until you have between 50 and 75 skill points in both cooking and fishing.
 
 
-Journeyman Fishing and Cooking (50-150)
+## Journeyman Fishing and Cooking (50-150)
 
 Hit up Tharynn Bouden in goldshire for the recipe for Longjaw Mud Snapper
 Go back to Stephen Ryback in Stormwind for Journeyman Cooking
@@ -71,7 +72,7 @@ Head to Redridge and start fishing Lake Everstill for Bristle Whisker Catfish.
 You should get around a 60% drop rate.
 Fish and cook away until your fishing and cooking are between 125 and 150
 
-Expert Fishing and Cooking (125-225)
+## Expert Fishing and Cooking (125-225)
 
 For expert fishing, get the book Expert Fishing - The Bass and You from Old Man Hemming in Booty Bay. 
 He's in a little house on the docks with a fishhook sign out front.
@@ -92,7 +93,7 @@ This is where you'll start to really notice the difference in skill-up speed bet
 You'll max out your cooking in no time, but your fishing skill will still be well under 200. 
 You can stay here if you want, but once you get to 200 you'll get better fish if you move on to Feralas (see below). Save any Zesty Clam Meat and Spotted Yellowtail you catch while there.
 
-Artisan Fishing and Cooking (225-300) 
+## Artisan Fishing and Cooking (225-300) 
 
 Unlike the other skill levels, you need to be maxed out (225) at expert
 to get the artisan quests for fishing and cooking. 
