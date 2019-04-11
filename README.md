@@ -35,7 +35,7 @@ We are always looking for more volunteers to help with coding, customizations, e
 Thank you.
 
 
-<b><font> fishing+cooking </b></font>
+<b><font size="+2"> fishing+cooking </b></font>
 
 This guide is intended to give you simple step-by-step directions to get your level 40+ Alliance character from zero to 300 in both cooking and fishing at the same time. It is not the only way to skill-up these professions, but it is a very easy way that requires a minimum of travel and keeps you in relatively safe areas. I created this guide because the only fishing/cooking combination guides I could find were written for horde characters. I used bits of this guide as a starting point and filled it out with specifics for us good guys. All drop percentages and location details were borrowed from Thottbot and Allakhazam.
 
