@@ -6,7 +6,7 @@ VanillaGuide aim to cover the hole for an in-game guide for Vanilla WoW. The Add
 * Hints and Tips for various Quests
 * [MetaMapBWP](https://github.com/laytya/Metamap-vanilla) Integration
 * [TomTom Vanilla](https://github.com/cralor/TomTomVanilla) Integration
-
+z
 > **NOTE:**
 >
 > - This Addon is developed for WoW 1.12.1 (toc 11200), also known as Vanilla WoW 
@@ -35,7 +35,7 @@ We are always looking for more volunteers to help with coding, customizations, e
 Thank you.
 
 
-<b> fishing+cooking </b>
+<b><font> fishing+cooking </b></font>
 
 This guide is intended to give you simple step-by-step directions to get your level 40+ Alliance character from zero to 300 in both cooking and fishing at the same time. It is not the only way to skill-up these professions, but it is a very easy way that requires a minimum of travel and keeps you in relatively safe areas. I created this guide because the only fishing/cooking combination guides I could find were written for horde characters. I used bits of this guide as a starting point and filled it out with specifics for us good guys. All drop percentages and location details were borrowed from Thottbot and Allakhazam.
 
