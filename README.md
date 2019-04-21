@@ -108,7 +108,7 @@ have been doing for the last 20 skill points or so.
 They don't drop often, but all this extra fishing will help you get the skill caught up with cooking.
 The other two quest items are Giant Eggs and Alterac Swiss. 
 The eggs drop from the Rocs in tanaris, as well as owlbeasts in the hinterlands.
-The swiss is sold by innkeepers in several towns. Check here for the full list. 
+The swiss is sold by innkeepers in several towns. https://classicdb.ch/?item=8932#sold-by. 
 Return to Dirge Quikcleave in Gadgetzan when you have all the items, 
 turn in the quest, and you'll be an artisan cook.
 Remember that Spotted Yellowtail I told you to save? Now you can cook it up all 
